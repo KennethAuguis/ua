@@ -54,7 +54,7 @@ body {
 .form-container {
     width: 50%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 0px;
     border: 10px solid #000080;
     border-radius: 10px;
 }
